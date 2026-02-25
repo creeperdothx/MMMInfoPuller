@@ -27,4 +27,11 @@
     "group": "Utilities",
     "download_url": "https://github.com/HuskyGT/Banana-OS/releases/latest/download/BananaOS.dll"
   },
+  {
+    "name": "ii's Stupid Menu - LTS",
+    "author": "CubicCreeper",
+    "git_path": "CubicCreeper/iis.Stupid.Menu-LTS",
+    "group": "Utilities",
+    "download_url": "https://github.com/CubicCreeper/iis.Stupid.Menu-LTS/releases/latest/download/ii.s.Stupid.Menu.dll"
+  },
 ]
