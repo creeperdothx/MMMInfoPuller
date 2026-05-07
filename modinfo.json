@@ -7,31 +7,10 @@
     "download_url": "https://github.com/BepInEx/BepInEx/releases/latest/download/BepInEx_win_x64_5.4.23.4.zip"
   },
   {
-    "name": "Utilla",
-    "author": "Dane",
-    "git_path": "developer9998/Utilla",
-    "group": "Core",
-    "download_url": "https://github.com/developer9998/Utilla/releases/latest/download/Utilla.dll"
-  },
-  {
-    "name": "Grate",
-    "author": "Graze",
-    "git_path": "The-Graze/Grate",
-    "group": "Gameplay",
-    "download_url": "https://github.com/The-Graze/Grate/releases/latest/download/Grate.dll"
-  },
-  {
-    "name": "BananaOS",
-    "author": "HuskyGT",
-    "git_path": "HuskyGT/Banana-OS",
+    "name": "Seralyth",
+    "author": "kingofnetflix",
+    "git_path": "Seralyth/Seralyth-Menu",
     "group": "Utilities",
-    "download_url": "https://github.com/HuskyGT/Banana-OS/releases/latest/download/BananaOS.dll"
-  },
-  {
-    "name": "ii's Stupid Menu - LTS",
-    "author": "CubicCreeper",
-    "git_path": "CubicCreeper/iis.Stupid.Menu-LTS",
-    "group": "Utilities",
-    "download_url": "https://github.com/CubicCreeper/iis.Stupid.Menu-LTS/releases/latest/download/ii.s.Stupid.Menu.dll"
+    "download_url": "https://github.com/Seralyth/Seralyth-Menu/releases/latest/download/Seralyth-Menu.dll"
   },
 ]
